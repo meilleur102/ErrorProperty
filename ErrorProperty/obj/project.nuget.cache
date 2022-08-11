@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "/R6fUk5b49yE1l72RGckTjdBrrxdy/DpLR3AP/i0+i05xinsvqhijIBnwfQwxSOcSjJ3IH+ba4ktVoKWWtFrYw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jcmei\\Documents\\JcFile\\GitHub\\Template\\ErrorProperty\\ErrorProperty\\ErrorProperty.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jcmei\\.nuget\\packages\\communitytoolkit.mvvm\\8.0.0\\communitytoolkit.mvvm.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
